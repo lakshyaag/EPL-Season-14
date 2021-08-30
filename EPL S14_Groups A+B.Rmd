@@ -1,4 +1,23 @@
-# ESL Pro League Season 14 - Groups A and B
+---
+title: "ESL Pro League - Season 14 - Group A and B"
+author: "Lakshya Agarwal"
+date: "8/30/2021"
+output:
+  rmdformats::downcute:
+    self_contained: true
+    lightbox: true
+    gallery: true
+    toc_depth: 3
+---
+
+<style>
+* {
+  font-family: Product Sans;
+}
+</style>
+
+
+## Introduction
 
 The round-robin group stage for 10 teams in the [ESL Pro League Season 14](https://www.hltv.org/events/5554/esl-pro-league-season-14) concluded recently. Here, I take a look at how the **players** performed over the past 2 weeks across 30 matches.
 
